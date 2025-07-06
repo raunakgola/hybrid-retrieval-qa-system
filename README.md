@@ -2,6 +2,8 @@
 
 A powerful document Q&A system that combines the best of semantic search and keyword matching using hybrid retrieval-augmented generation (RAG). Built with Pinecone vector database, Google's Gemini AI, and Streamlit.
 
+![Pinecone UI Interface](Pinecone_UI.png)
+
 ## 🚀 Features
 
 - **Hybrid Search**: Combines dense vector embeddings and sparse BM25 keyword matching for superior retrieval accuracy
